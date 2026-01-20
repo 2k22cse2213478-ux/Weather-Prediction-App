@@ -1,6 +1,6 @@
-# 🌤️ Weather Prediction Web Application
+# 🌤️ Weather Prediction App
 
-A responsive and user-friendly **Weather Prediction Web Application** that provides real-time weather information for any city using live weather data APIs. The application displays temperature, weather conditions, humidity, and wind speed with visually appealing icons.
+A responsive and user-friendly **Weather Prediction App** that provides real-time weather information for any city using live weather data APIs. The application displays temperature, weather conditions, humidity, and wind speed with visually appealing icons.
 
 ---
 
@@ -27,7 +27,7 @@ A responsive and user-friendly **Weather Prediction Web Application** that provi
 
 ## 📂 Project Structure
 ```text
-Weather-Website/
+Weather-Prediction-App/
 │
 ├── index.html # Main HTML file
 ├── style.css # Stylesheet
@@ -50,12 +50,12 @@ Weather-Website/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-website.git
+   git clone https://github.com/your-username/weather-prediction-app.git
 
 
 2. Navigate to the project folder:
    ```bash
-   cd weather-website
+   cd weather-prediction-app
 
 
 3. Open index.html in any modern web browser.
@@ -89,10 +89,10 @@ Weather-Website/
 ## 👩‍💻 Author
 
 **Gargi Mishra**
-Computer Science Student | Web Development Enthusiast
+Computer Science Student 
 
 ## 📜 License
 
 This project is licensed under the MIT License – free to use, modify, and distribute.
 
-## ⭐ If you like this project, don’t forget to give it a star!
+⭐ If you like this project, don’t forget to give it a star!
